@@ -1,0 +1,13 @@
+{
+    "name": "bakobako/matrix",
+    "description": "Math matrix operations",
+    "authors": [
+        {
+            "name": "Aleksandar Markovski",
+            "email": "aleksandar@gsix.me"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
