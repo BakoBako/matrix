@@ -9,5 +9,15 @@
     ],
     "require": {
         "phpunit/phpunit": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bako\\Matrix\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bako\\Matrix\\Tests\\": "tests/"
+        }
     }
 }
